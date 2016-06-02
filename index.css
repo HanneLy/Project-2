@@ -8,4 +8,4 @@ h2 {font-size: 3em; color: black; font-weight: bold;}
 
 p {font-size: 1.5em; color: black}
 
-.afb {width: 15em; float: left; margin-top: -43em;}
+.afb {width: 15em; float: left; margin-top: -43em; background: white; border-radius: 15px;}
