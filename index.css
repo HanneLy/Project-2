@@ -1,7 +1,9 @@
-html {background: lightblue;}
+html {background: lightblue; text-align: center; font-family: hind vadodara;}
 
-h1 {font-size: 5em; color: midnightblue;}
+body {margin-top: 20em;}
 
-h2 {font-size: 3em; color: black;}
+h1 {font-size: 5em; color: midnightblue; font-family: showcard gothic;}
+
+h2 {font-size: 3em; color: black; font-weight: bold;}
 
 p {font-size: 1.5em; color: black}
